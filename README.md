@@ -1,6 +1,6 @@
 # Tourismus
 
-> A Meet up SPA
+> A Tourism App
 
 ## Build Setup
 
