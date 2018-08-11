@@ -26,4 +26,6 @@ npm test
 # make sure to provide your firebase credientials in yourenv.js and then run
 cp yourenv.js env.js
 
+```
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
