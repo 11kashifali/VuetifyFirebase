@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# make sure to provide your firebase credientials in yourenv.js and then run
+cp yourenv.js env.js
+
 # serve with hot reload at localhost:8080
 npm run dev
 
@@ -22,9 +25,6 @@ npm run unit
 
 # run all tests
 npm test
-
-# make sure to provide your firebase credientials in yourenv.js and then run
-cp yourenv.js env.js
 
 ```
 
